@@ -1,4 +1,4 @@
-# Unfinished-Puzzle-Game
+# Puzzle-Game
 
 This game is unfinished and thus a little buggy but it still is functional.
 

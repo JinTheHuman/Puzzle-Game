@@ -6,4 +6,4 @@ Double click pieces to rotate and click piece and then postion on the board to p
 
 The link to the deployed version.
 
-https://priceless-engelbart-e8db58.netlify.app/
+https://61d072be90130339597d41ff--priceless-engelbart-e8db58.netlify.app/
